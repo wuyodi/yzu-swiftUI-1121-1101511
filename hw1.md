@@ -17,7 +17,7 @@ struct ContentView: View {
                         .font(.system(size:20))
                     Image(systemName: "square.and.arrow.up")
                         .background(Color.cyan)
-                        .cornerRadius(/*@START_MENU_TOKEN@*/3.0/*@END_MENU_TOKEN@*/, antialiased: /*@START_MENU_TOKEN@*/true/*@END_MENU_TOKEN@*/)
+                        .cornerRadius(3.0)
                 }
                 Spacer()
                 Text("You can’t be perfect but you can be unique.")
