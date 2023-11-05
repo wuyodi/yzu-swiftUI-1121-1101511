@@ -29,7 +29,7 @@ struct ContentView: View {
                     .background(Color.blue)
                     .cornerRadius(30.0)
                     .opacity(0.8)
-            } .padding(/*@START_MENU_TOKEN@*/10/*@END_MENU_TOKEN@*/)
+            } .padding(10)
         }
     }
 }
