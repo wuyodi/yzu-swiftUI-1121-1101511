@@ -2,6 +2,10 @@
 
 
 
+https://github.com/wuyodi/yzu-swiftUI-1121-1101511/assets/58367863/9aedc7db-fdbe-46c8-a996-a58919f55196
+
+
+
 ![IMG_0270](https://github.com/wuyodi/yzu-swiftUI-1121-1101511/assets/58367863/8f76608a-ac9f-473d-a6e5-1c1871710737)
 
 
