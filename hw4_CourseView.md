@@ -1,4 +1,4 @@
-# HW4_ContentView
+# HW4_CourseView
 
 ```swift
 
