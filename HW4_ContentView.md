@@ -17,6 +17,10 @@ struct ContentView: View{
                             Image(systemName: "rosette")
                             Text("Welcome")
                         }
+
+https://github.com/wuyodi/yzu-swiftUI-1121-1101511/assets/58367863/35d780a7-5309-42f5-bb27-9297da17075e
+
+
                     CourseListlView()
                         .tabItem{
                             Image(systemName: "list.dash")
